@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mcodehunk
+- 👋 Hi, I’m Manas anand
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning engeering
 - 💞️ I’m looking to collaborate on ...
